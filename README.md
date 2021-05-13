@@ -1,7 +1,8 @@
 # blowfish-crypt
 windows console crypt app
 
-In this programm use cryptopp library.
+In this programm use cryptopp library.You must add folder with cryptopp library before use this.
+https://www.cryptopp.com/
 
 Usage example:
 
