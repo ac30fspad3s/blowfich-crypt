@@ -1,4 +1,4 @@
-# blowfich-crypt
+# blowfish-crypt
 windows console crypt app
 
 In this programm use cryptopp library.
